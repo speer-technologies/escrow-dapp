@@ -27,9 +27,11 @@ Required:
 
 For Bonus section:
 
-- A deployment link to your web interfact (if applicable) where our recruiters can interact with the live version. You can use freely available tools like **Remix, Metamask, etc** to deploy your Smart contract.
+- A deployment link to your web interface (if applicable) where our recruiters can interact with the live version. You can use freely available tools like **Remix, Metamask, etc** to deploy your Smart contract.
 - If you don't know how to create an interface for your smart contract, you can refer **[Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth)**'s documentation.
 - You can also find examples of other DApps in there for inspiration!
+
+You should email the links to our recruiters with the subject line **Blockchain Developer Assessment - [Your Name]**
 
 **Note:** Submissions without the **required** links will be removed from any further consideration.
 
